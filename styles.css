@@ -1,0 +1,36 @@
+body{font-family:Arial,sans-serif;background:#0f172a;color:#e2e8f0;margin:0;padding:14px;line-height:1.45}
+.topbar{display:flex;justify-content:space-between;align-items:flex-start;gap:12px;margin-bottom:10px}
+.topbar h1{margin:0;font-size:24px}
+.subtitle{margin:4px 0 0;color:#94a3b8;font-size:13px}
+button{background:#2563eb;color:#fff;border:none;border-radius:8px;padding:8px 12px}
+.cards{display:grid;grid-template-columns:repeat(4,1fr);gap:10px}
+.card,.panel,.item{background:#111827;border:1px solid #334155;border-radius:10px;padding:12px;margin:10px 0}
+.panel h2,.panel h3,.panel h4{margin:0 0 8px}
+.one-line{font-size:16px;font-weight:600;margin:6px 0 10px}
+.meta-row{display:flex;flex-wrap:wrap;gap:6px}
+.kpi-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:8px}
+.kpi{background:#0b1224;border:1px solid #2b3a5b;border-radius:8px;padding:8px}
+.kpi label{display:block;color:#94a3b8;font-size:12px}
+.kpi strong{font-size:18px}
+.card-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}
+.dcard{background:#0b1224;border:1px solid #2b3a5b;border-radius:8px;padding:10px}
+.dcard h4{margin:0 0 6px}
+.dcard p{margin:0 0 8px;color:#cbd5e1}
+.meta{font-size:12px;color:#94a3b8}
+.list-item{background:#0b1224;border:1px solid #2b3a5b;border-radius:8px;padding:10px;margin:8px 0}
+.clickable{cursor:pointer}
+.clickable:hover{border-color:#60a5fa;background:#0c1731}
+.sub{color:#cbd5e1;font-size:13px;margin-top:4px}
+.muted{color:#94a3b8;font-size:12px}
+.chips{margin-top:6px}
+.chip{display:inline-block;background:#1d4ed8;color:#dbeafe;border-radius:999px;padding:2px 8px;margin:2px;font-size:12px}
+.toolbar{display:grid;grid-template-columns:2fr 1fr 1fr;gap:8px;align-items:center}
+.toolbar input,.toolbar select{background:#0b1224;color:#e2e8f0;border:1px solid #334155;border-radius:8px;padding:8px}
+.breadcrumb{font-size:13px;color:#cbd5e1}
+.two-col{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.empty{color:#94a3b8}
+.low-priority{opacity:.9}
+.error{background:#7f1d1d;color:#fee2e2;border:1px solid #ef4444;border-radius:8px;padding:8px 10px;margin:10px 0;font-size:13px}
+.loading{background:#1e293b;color:#e2e8f0;border:1px solid #475569;border-radius:8px;padding:8px 10px;margin:10px 0;font-size:13px}
+@media(max-width:900px){.cards{grid-template-columns:1fr 1fr}.kpi-grid{grid-template-columns:1fr 1fr}.card-grid{grid-template-columns:1fr 1fr}.toolbar{grid-template-columns:1fr}}
+@media(max-width:600px){.cards,.kpi-grid,.card-grid,.two-col{grid-template-columns:1fr}}

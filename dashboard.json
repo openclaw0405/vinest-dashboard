@@ -1,0 +1,776 @@
+{
+  "generated_at": "2026-03-19T19:54:28",
+  "stats": {
+    "source_count": 5,
+    "watchlist_count": 0,
+    "latest_date": "2026-03-19",
+    "untagged_count": 0
+  },
+  "home_summary": {
+    "title": "全站總結",
+    "one_line_summary": "海外公司點評（工業）首次覆蓋津上機床中國（1651.HK），給予買入評級。；核心觀點：1H26業績增長強勁，AI液冷相關需求成為新驅動。",
+    "key_points": [
+      "海外公司點評（工業）首次覆蓋津上機床中國（1651.HK），給予買入評級。；核心觀點：1H26業績增長強勁，AI液冷相關需求成為新驅動。",
+      "海外公司點評聚焦好孩子國際（1086.HK）。；核心信息：2024業績點評顯示高端品牌 Cybex 發展加速。",
+      "行業深度報告：商貿零售 2026 策略。；主軸為「強、變、新」：外需與內需共振，消費出海與資源商貿。",
+      "中國機械報告聚焦津上精密機床（中國）1651.HK。；重點：1H26 業績穩健，並出現新的增長動能。",
+      "2025-10 報告預期 1H26 業績穩健。；屬於業績前瞻型觀點，與後續報告可形成驗證鏈。"
+    ],
+    "what_changed": [
+      "1651.HK: intact→strengthened",
+      "1086.HK: intact→strengthened"
+    ],
+    "watchlist_status": "off_watchlist",
+    "thesis_status": "intact",
+    "conviction": "-",
+    "risks": [],
+    "opportunities": [
+      "海外公司點評（工業）首次覆蓋津上機床中國（1651.HK），給予買入評級。；核心觀點：1H26業績增長強勁，AI液冷相關需求成為新驅動。"
+    ],
+    "related_entities": [],
+    "last_updated": "2026-03-19"
+  },
+  "taxonomy": [
+    {
+      "l1": "principles",
+      "label": "心法",
+      "children": [],
+      "summary": {
+        "title": "心法",
+        "one_line_summary": "目前資料不足，待補充。",
+        "key_points": [],
+        "what_changed": [],
+        "watchlist_status": "off_watchlist",
+        "thesis_status": "intact",
+        "conviction": "-",
+        "risks": [],
+        "opportunities": [],
+        "related_entities": [],
+        "last_updated": "2026-03-19"
+      }
+    },
+    {
+      "l1": "methods",
+      "label": "方法",
+      "children": [
+        {
+          "l2": "全部",
+          "count": 5,
+          "source_ids": [
+            "S-20260319-711002ee",
+            "S-20260319-0089f118",
+            "S-20260319-06afbd4a",
+            "S-20260319-b7b4f2f6",
+            "S-20260319-d05c4d25"
+          ],
+          "summary": {
+            "title": "方法/全部",
+            "one_line_summary": "海外公司點評（工業）首次覆蓋津上機床中國（1651.HK），給予買入評級。；核心觀點：1H26業績增長強勁，AI液冷相關需求成為新驅動。",
+            "key_points": [
+              "海外公司點評（工業）首次覆蓋津上機床中國（1651.HK），給予買入評級。；核心觀點：1H26業績增長強勁，AI液冷相關需求成為新驅動。",
+              "海外公司點評聚焦好孩子國際（1086.HK）。；核心信息：2024業績點評顯示高端品牌 Cybex 發展加速。",
+              "行業深度報告：商貿零售 2026 策略。；主軸為「強、變、新」：外需與內需共振，消費出海與資源商貿。",
+              "中國機械報告聚焦津上精密機床（中國）1651.HK。；重點：1H26 業績穩健，並出現新的增長動能。",
+              "2025-10 報告預期 1H26 業績穩健。；屬於業績前瞻型觀點，與後續報告可形成驗證鏈。"
+            ],
+            "what_changed": [],
+            "watchlist_status": "off_watchlist",
+            "thesis_status": "intact",
+            "conviction": "-",
+            "risks": [],
+            "opportunities": [
+              "海外公司點評（工業）首次覆蓋津上機床中國（1651.HK），給予買入評級。；核心觀點：1H26業績增長強勁，AI液冷相關需求成為新驅動。"
+            ],
+            "related_entities": [],
+            "last_updated": "2026-03-19"
+          }
+        }
+      ],
+      "summary": {
+        "title": "方法",
+        "one_line_summary": "海外公司點評（工業）首次覆蓋津上機床中國（1651.HK），給予買入評級。；核心觀點：1H26業績增長強勁，AI液冷相關需求成為新驅動。",
+        "key_points": [
+          "海外公司點評（工業）首次覆蓋津上機床中國（1651.HK），給予買入評級。；核心觀點：1H26業績增長強勁，AI液冷相關需求成為新驅動。",
+          "海外公司點評聚焦好孩子國際（1086.HK）。；核心信息：2024業績點評顯示高端品牌 Cybex 發展加速。"
+        ],
+        "what_changed": [],
+        "watchlist_status": "off_watchlist",
+        "thesis_status": "intact",
+        "conviction": "-",
+        "risks": [],
+        "opportunities": [
+          "海外公司點評（工業）首次覆蓋津上機床中國（1651.HK），給予買入評級。；核心觀點：1H26業績增長強勁，AI液冷相關需求成為新驅動。"
+        ],
+        "related_entities": [],
+        "last_updated": "2026-03-19"
+      }
+    },
+    {
+      "l1": "market",
+      "label": "市場",
+      "children": [
+        {
+          "l2": "consumption-export",
+          "count": 1,
+          "source_ids": [
+            "S-20260319-06afbd4a"
+          ],
+          "summary": {
+            "title": "市場/consumption-export",
+            "one_line_summary": "行業深度報告：商貿零售 2026 策略。；主軸為「強、變、新」：外需與內需共振，消費出海與資源商貿。",
+            "key_points": [
+              "行業深度報告：商貿零售 2026 策略。；主軸為「強、變、新」：外需與內需共振，消費出海與資源商貿。"
+            ],
+            "what_changed": [],
+            "watchlist_status": "off_watchlist",
+            "thesis_status": "intact",
+            "conviction": "-",
+            "risks": [],
+            "opportunities": [],
+            "related_entities": [],
+            "last_updated": "2026-03-19"
+          }
+        },
+        {
+          "l2": "consumption-upgrade",
+          "count": 1,
+          "source_ids": [
+            "S-20260319-0089f118"
+          ],
+          "summary": {
+            "title": "市場/consumption-upgrade",
+            "one_line_summary": "海外公司點評聚焦好孩子國際（1086.HK）。；核心信息：2024業績點評顯示高端品牌 Cybex 發展加速。",
+            "key_points": [
+              "海外公司點評聚焦好孩子國際（1086.HK）。；核心信息：2024業績點評顯示高端品牌 Cybex 發展加速。"
+            ],
+            "what_changed": [],
+            "watchlist_status": "off_watchlist",
+            "thesis_status": "intact",
+            "conviction": "-",
+            "risks": [],
+            "opportunities": [],
+            "related_entities": [],
+            "last_updated": "2026-03-19"
+          }
+        },
+        {
+          "l2": "manufacturing-upgrade",
+          "count": 1,
+          "source_ids": [
+            "S-20260319-711002ee"
+          ],
+          "summary": {
+            "title": "市場/manufacturing-upgrade",
+            "one_line_summary": "海外公司點評（工業）首次覆蓋津上機床中國（1651.HK），給予買入評級。；核心觀點：1H26業績增長強勁，AI液冷相關需求成為新驅動。",
+            "key_points": [
+              "海外公司點評（工業）首次覆蓋津上機床中國（1651.HK），給予買入評級。；核心觀點：1H26業績增長強勁，AI液冷相關需求成為新驅動。"
+            ],
+            "what_changed": [],
+            "watchlist_status": "off_watchlist",
+            "thesis_status": "intact",
+            "conviction": "-",
+            "risks": [],
+            "opportunities": [
+              "海外公司點評（工業）首次覆蓋津上機床中國（1651.HK），給予買入評級。；核心觀點：1H26業績增長強勁，AI液冷相關需求成為新驅動。"
+            ],
+            "related_entities": [],
+            "last_updated": "2026-03-19"
+          }
+        },
+        {
+          "l2": "supply-chain-reconfiguration",
+          "count": 1,
+          "source_ids": [
+            "S-20260319-06afbd4a"
+          ],
+          "summary": {
+            "title": "市場/supply-chain-reconfiguration",
+            "one_line_summary": "行業深度報告：商貿零售 2026 策略。；主軸為「強、變、新」：外需與內需共振，消費出海與資源商貿。",
+            "key_points": [
+              "行業深度報告：商貿零售 2026 策略。；主軸為「強、變、新」：外需與內需共振，消費出海與資源商貿。"
+            ],
+            "what_changed": [],
+            "watchlist_status": "off_watchlist",
+            "thesis_status": "intact",
+            "conviction": "-",
+            "risks": [],
+            "opportunities": [],
+            "related_entities": [],
+            "last_updated": "2026-03-19"
+          }
+        }
+      ],
+      "summary": {
+        "title": "市場",
+        "one_line_summary": "行業深度報告：商貿零售 2026 策略。；主軸為「強、變、新」：外需與內需共振，消費出海與資源商貿。",
+        "key_points": [
+          "行業深度報告：商貿零售 2026 策略。；主軸為「強、變、新」：外需與內需共振，消費出海與資源商貿。",
+          "海外公司點評聚焦好孩子國際（1086.HK）。；核心信息：2024業績點評顯示高端品牌 Cybex 發展加速。",
+          "海外公司點評（工業）首次覆蓋津上機床中國（1651.HK），給予買入評級。；核心觀點：1H26業績增長強勁，AI液冷相關需求成為新驅動。",
+          "行業深度報告：商貿零售 2026 策略。；主軸為「強、變、新」：外需與內需共振，消費出海與資源商貿。"
+        ],
+        "what_changed": [],
+        "watchlist_status": "off_watchlist",
+        "thesis_status": "intact",
+        "conviction": "-",
+        "risks": [],
+        "opportunities": [
+          "海外公司點評（工業）首次覆蓋津上機床中國（1651.HK），給予買入評級。；核心觀點：1H26業績增長強勁，AI液冷相關需求成為新驅動。"
+        ],
+        "related_entities": [],
+        "last_updated": "2026-03-19"
+      }
+    },
+    {
+      "l1": "sectors",
+      "label": "行業",
+      "children": [
+        {
+          "l2": "baby-products",
+          "count": 1,
+          "source_ids": [
+            "S-20260319-0089f118"
+          ],
+          "summary": {
+            "title": "行業/baby-products",
+            "one_line_summary": "海外公司點評聚焦好孩子國際（1086.HK）。；核心信息：2024業績點評顯示高端品牌 Cybex 發展加速。",
+            "key_points": [
+              "海外公司點評聚焦好孩子國際（1086.HK）。；核心信息：2024業績點評顯示高端品牌 Cybex 發展加速。"
+            ],
+            "what_changed": [],
+            "watchlist_status": "off_watchlist",
+            "thesis_status": "intact",
+            "conviction": "-",
+            "risks": [],
+            "opportunities": [],
+            "related_entities": [],
+            "last_updated": "2026-03-19"
+          }
+        },
+        {
+          "l2": "machinery",
+          "count": 3,
+          "source_ids": [
+            "S-20260319-711002ee",
+            "S-20260319-b7b4f2f6",
+            "S-20260319-d05c4d25"
+          ],
+          "summary": {
+            "title": "行業/machinery",
+            "one_line_summary": "海外公司點評（工業）首次覆蓋津上機床中國（1651.HK），給予買入評級。；核心觀點：1H26業績增長強勁，AI液冷相關需求成為新驅動。",
+            "key_points": [
+              "海外公司點評（工業）首次覆蓋津上機床中國（1651.HK），給予買入評級。；核心觀點：1H26業績增長強勁，AI液冷相關需求成為新驅動。",
+              "中國機械報告聚焦津上精密機床（中國）1651.HK。；重點：1H26 業績穩健，並出現新的增長動能。",
+              "2025-10 報告預期 1H26 業績穩健。；屬於業績前瞻型觀點，與後續報告可形成驗證鏈。"
+            ],
+            "what_changed": [],
+            "watchlist_status": "off_watchlist",
+            "thesis_status": "intact",
+            "conviction": "-",
+            "risks": [],
+            "opportunities": [
+              "海外公司點評（工業）首次覆蓋津上機床中國（1651.HK），給予買入評級。；核心觀點：1H26業績增長強勁，AI液冷相關需求成為新驅動。"
+            ],
+            "related_entities": [],
+            "last_updated": "2026-03-19"
+          }
+        },
+        {
+          "l2": "retail-trade",
+          "count": 1,
+          "source_ids": [
+            "S-20260319-06afbd4a"
+          ],
+          "summary": {
+            "title": "行業/retail-trade",
+            "one_line_summary": "行業深度報告：商貿零售 2026 策略。；主軸為「強、變、新」：外需與內需共振，消費出海與資源商貿。",
+            "key_points": [
+              "行業深度報告：商貿零售 2026 策略。；主軸為「強、變、新」：外需與內需共振，消費出海與資源商貿。"
+            ],
+            "what_changed": [],
+            "watchlist_status": "off_watchlist",
+            "thesis_status": "intact",
+            "conviction": "-",
+            "risks": [],
+            "opportunities": [],
+            "related_entities": [],
+            "last_updated": "2026-03-19"
+          }
+        }
+      ],
+      "summary": {
+        "title": "行業",
+        "one_line_summary": "海外公司點評聚焦好孩子國際（1086.HK）。；核心信息：2024業績點評顯示高端品牌 Cybex 發展加速。",
+        "key_points": [
+          "海外公司點評聚焦好孩子國際（1086.HK）。；核心信息：2024業績點評顯示高端品牌 Cybex 發展加速。",
+          "海外公司點評（工業）首次覆蓋津上機床中國（1651.HK），給予買入評級。；核心觀點：1H26業績增長強勁，AI液冷相關需求成為新驅動。",
+          "中國機械報告聚焦津上精密機床（中國）1651.HK。；重點：1H26 業績穩健，並出現新的增長動能。",
+          "行業深度報告：商貿零售 2026 策略。；主軸為「強、變、新」：外需與內需共振，消費出海與資源商貿。"
+        ],
+        "what_changed": [],
+        "watchlist_status": "off_watchlist",
+        "thesis_status": "intact",
+        "conviction": "-",
+        "risks": [],
+        "opportunities": [
+          "海外公司點評（工業）首次覆蓋津上機床中國（1651.HK），給予買入評級。；核心觀點：1H26業績增長強勁，AI液冷相關需求成為新驅動。"
+        ],
+        "related_entities": [],
+        "last_updated": "2026-03-19"
+      }
+    },
+    {
+      "l1": "companies",
+      "label": "公司",
+      "children": [
+        {
+          "l2": "1086.HK",
+          "count": 1,
+          "source_ids": [
+            "S-20260319-0089f118"
+          ],
+          "summary": {
+            "title": "公司/1086.HK",
+            "one_line_summary": "海外公司點評聚焦好孩子國際（1086.HK）。；核心信息：2024業績點評顯示高端品牌 Cybex 發展加速。",
+            "key_points": [
+              "海外公司點評聚焦好孩子國際（1086.HK）。；核心信息：2024業績點評顯示高端品牌 Cybex 發展加速。"
+            ],
+            "what_changed": [],
+            "watchlist_status": "off_watchlist",
+            "thesis_status": "intact",
+            "conviction": "-",
+            "risks": [],
+            "opportunities": [],
+            "related_entities": [],
+            "last_updated": "2026-03-19"
+          }
+        },
+        {
+          "l2": "1651.HK",
+          "count": 3,
+          "source_ids": [
+            "S-20260319-711002ee",
+            "S-20260319-b7b4f2f6",
+            "S-20260319-d05c4d25"
+          ],
+          "summary": {
+            "title": "公司/1651.HK",
+            "one_line_summary": "海外公司點評（工業）首次覆蓋津上機床中國（1651.HK），給予買入評級。；核心觀點：1H26業績增長強勁，AI液冷相關需求成為新驅動。",
+            "key_points": [
+              "海外公司點評（工業）首次覆蓋津上機床中國（1651.HK），給予買入評級。；核心觀點：1H26業績增長強勁，AI液冷相關需求成為新驅動。",
+              "中國機械報告聚焦津上精密機床（中國）1651.HK。；重點：1H26 業績穩健，並出現新的增長動能。",
+              "2025-10 報告預期 1H26 業績穩健。；屬於業績前瞻型觀點，與後續報告可形成驗證鏈。"
+            ],
+            "what_changed": [],
+            "watchlist_status": "off_watchlist",
+            "thesis_status": "intact",
+            "conviction": "-",
+            "risks": [],
+            "opportunities": [
+              "海外公司點評（工業）首次覆蓋津上機床中國（1651.HK），給予買入評級。；核心觀點：1H26業績增長強勁，AI液冷相關需求成為新驅動。"
+            ],
+            "related_entities": [],
+            "last_updated": "2026-03-19"
+          }
+        }
+      ],
+      "summary": {
+        "title": "公司",
+        "one_line_summary": "海外公司點評聚焦好孩子國際（1086.HK）。；核心信息：2024業績點評顯示高端品牌 Cybex 發展加速。",
+        "key_points": [
+          "海外公司點評聚焦好孩子國際（1086.HK）。；核心信息：2024業績點評顯示高端品牌 Cybex 發展加速。",
+          "海外公司點評（工業）首次覆蓋津上機床中國（1651.HK），給予買入評級。；核心觀點：1H26業績增長強勁，AI液冷相關需求成為新驅動。",
+          "中國機械報告聚焦津上精密機床（中國）1651.HK。；重點：1H26 業績穩健，並出現新的增長動能。"
+        ],
+        "what_changed": [],
+        "watchlist_status": "off_watchlist",
+        "thesis_status": "intact",
+        "conviction": "-",
+        "risks": [],
+        "opportunities": [
+          "海外公司點評（工業）首次覆蓋津上機床中國（1651.HK），給予買入評級。；核心觀點：1H26業績增長強勁，AI液冷相關需求成為新驅動。"
+        ],
+        "related_entities": [],
+        "last_updated": "2026-03-19"
+      }
+    },
+    {
+      "l1": "opportunities",
+      "label": "機會",
+      "children": [],
+      "summary": {
+        "title": "機會",
+        "one_line_summary": "目前資料不足，待補充。",
+        "key_points": [],
+        "what_changed": [],
+        "watchlist_status": "off_watchlist",
+        "thesis_status": "intact",
+        "conviction": "-",
+        "risks": [],
+        "opportunities": [],
+        "related_entities": [],
+        "last_updated": "2026-03-19"
+      }
+    }
+  ],
+  "sectors_overview": [
+    {
+      "sector_slug": "baby-products",
+      "display_name": "baby-products",
+      "related_companies_count": 1,
+      "related_sources_count": 1,
+      "latest_update": "2026-03-19",
+      "source_ids": [
+        "S-20260319-0089f118"
+      ],
+      "summary": {
+        "title": "行業/baby-products",
+        "one_line_summary": "海外公司點評聚焦好孩子國際（1086.HK）。；核心信息：2024業績點評顯示高端品牌 Cybex 發展加速。",
+        "key_points": [
+          "海外公司點評聚焦好孩子國際（1086.HK）。；核心信息：2024業績點評顯示高端品牌 Cybex 發展加速。"
+        ],
+        "what_changed": [],
+        "watchlist_status": "off_watchlist",
+        "thesis_status": "intact",
+        "conviction": "-",
+        "risks": [],
+        "opportunities": [],
+        "related_entities": [],
+        "last_updated": "2026-03-19"
+      }
+    },
+    {
+      "sector_slug": "machinery",
+      "display_name": "machinery",
+      "related_companies_count": 1,
+      "related_sources_count": 3,
+      "latest_update": "2026-03-19",
+      "source_ids": [
+        "S-20260319-711002ee",
+        "S-20260319-b7b4f2f6",
+        "S-20260319-d05c4d25"
+      ],
+      "summary": {
+        "title": "行業/machinery",
+        "one_line_summary": "海外公司點評（工業）首次覆蓋津上機床中國（1651.HK），給予買入評級。；核心觀點：1H26業績增長強勁，AI液冷相關需求成為新驅動。",
+        "key_points": [
+          "海外公司點評（工業）首次覆蓋津上機床中國（1651.HK），給予買入評級。；核心觀點：1H26業績增長強勁，AI液冷相關需求成為新驅動。",
+          "中國機械報告聚焦津上精密機床（中國）1651.HK。；重點：1H26 業績穩健，並出現新的增長動能。",
+          "2025-10 報告預期 1H26 業績穩健。；屬於業績前瞻型觀點，與後續報告可形成驗證鏈。"
+        ],
+        "what_changed": [],
+        "watchlist_status": "off_watchlist",
+        "thesis_status": "intact",
+        "conviction": "-",
+        "risks": [],
+        "opportunities": [
+          "海外公司點評（工業）首次覆蓋津上機床中國（1651.HK），給予買入評級。；核心觀點：1H26業績增長強勁，AI液冷相關需求成為新驅動。"
+        ],
+        "related_entities": [],
+        "last_updated": "2026-03-19"
+      }
+    },
+    {
+      "sector_slug": "retail-trade",
+      "display_name": "retail-trade",
+      "related_companies_count": 0,
+      "related_sources_count": 1,
+      "latest_update": "2026-03-19",
+      "source_ids": [
+        "S-20260319-06afbd4a"
+      ],
+      "summary": {
+        "title": "行業/retail-trade",
+        "one_line_summary": "行業深度報告：商貿零售 2026 策略。；主軸為「強、變、新」：外需與內需共振，消費出海與資源商貿。",
+        "key_points": [
+          "行業深度報告：商貿零售 2026 策略。；主軸為「強、變、新」：外需與內需共振，消費出海與資源商貿。"
+        ],
+        "what_changed": [],
+        "watchlist_status": "off_watchlist",
+        "thesis_status": "intact",
+        "conviction": "-",
+        "risks": [],
+        "opportunities": [],
+        "related_entities": [],
+        "last_updated": "2026-03-19"
+      }
+    }
+  ],
+  "companies_overview": [
+    {
+      "company_slug": "1086.hk",
+      "display_name": "1086.HK",
+      "ticker": "1086.HK",
+      "primary_sector": "baby-products",
+      "thesis_status": "strengthened",
+      "watchlist_status": "off_watchlist",
+      "related_sources_count": 1,
+      "latest_update": "2026-03-19",
+      "source_ids": [
+        "S-20260319-0089f118"
+      ],
+      "summary": {
+        "title": "公司/1086.HK",
+        "one_line_summary": "海外公司點評聚焦好孩子國際（1086.HK）。；核心信息：2024業績點評顯示高端品牌 Cybex 發展加速。",
+        "key_points": [
+          "海外公司點評聚焦好孩子國際（1086.HK）。；核心信息：2024業績點評顯示高端品牌 Cybex 發展加速。"
+        ],
+        "what_changed": [],
+        "watchlist_status": "off_watchlist",
+        "thesis_status": "intact",
+        "conviction": "-",
+        "risks": [],
+        "opportunities": [],
+        "related_entities": [],
+        "last_updated": "2026-03-19"
+      }
+    },
+    {
+      "company_slug": "1651.hk",
+      "display_name": "1651.HK",
+      "ticker": "1651.HK",
+      "primary_sector": "machinery",
+      "thesis_status": "strengthened",
+      "watchlist_status": "off_watchlist",
+      "related_sources_count": 3,
+      "latest_update": "2026-03-19",
+      "source_ids": [
+        "S-20260319-711002ee",
+        "S-20260319-b7b4f2f6",
+        "S-20260319-d05c4d25"
+      ],
+      "summary": {
+        "title": "公司/1651.HK",
+        "one_line_summary": "海外公司點評（工業）首次覆蓋津上機床中國（1651.HK），給予買入評級。；核心觀點：1H26業績增長強勁，AI液冷相關需求成為新驅動。",
+        "key_points": [
+          "海外公司點評（工業）首次覆蓋津上機床中國（1651.HK），給予買入評級。；核心觀點：1H26業績增長強勁，AI液冷相關需求成為新驅動。",
+          "中國機械報告聚焦津上精密機床（中國）1651.HK。；重點：1H26 業績穩健，並出現新的增長動能。",
+          "2025-10 報告預期 1H26 業績穩健。；屬於業績前瞻型觀點，與後續報告可形成驗證鏈。"
+        ],
+        "what_changed": [],
+        "watchlist_status": "off_watchlist",
+        "thesis_status": "intact",
+        "conviction": "-",
+        "risks": [],
+        "opportunities": [
+          "海外公司點評（工業）首次覆蓋津上機床中國（1651.HK），給予買入評級。；核心觀點：1H26業績增長強勁，AI液冷相關需求成為新驅動。"
+        ],
+        "related_entities": [],
+        "last_updated": "2026-03-19"
+      }
+    }
+  ],
+  "thesis_changes": [
+    {
+      "date": "2026-03-19",
+      "ticker": "1651.HK",
+      "old_status": "intact",
+      "new_status": "strengthened",
+      "reason": "多來源交叉驗證（首次買入 + 業績穩健 + 前瞻驗證）",
+      "source_ids": [
+        "S-20260319-711002ee",
+        "S-20260319-b7b4f2f6",
+        "S-20260319-d05c4d25"
+      ]
+    },
+    {
+      "date": "2026-03-19",
+      "ticker": "1086.HK",
+      "old_status": "intact",
+      "new_status": "strengthened",
+      "reason": "Cybex 高端品牌加速，品牌升級 thesis 被新報告支持",
+      "source_ids": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "S-20260319-711002ee",
+      "title": "@余小丽7565534929986",
+      "source_type": "report",
+      "date": "2026-03-19",
+      "summary": "海外公司點評（工業）首次覆蓋津上機床中國（1651.HK），給予買入評級。；核心觀點：1H26業績增長強勁，AI液冷相關需求成為新驅動。",
+      "categories": [
+        "companies",
+        "market",
+        "methods",
+        "sectors"
+      ],
+      "sector_tags": [
+        "machinery"
+      ],
+      "company_tags": [
+        "1651.HK"
+      ],
+      "market_tags": [
+        "manufacturing-upgrade"
+      ],
+      "ticker": "1651.HK",
+      "watchlist_status": "off_watchlist",
+      "thesis_status": "strengthened",
+      "related_ids": [
+        "S-20260319-711002ee",
+        "S-20260319-b7b4f2f6",
+        "S-20260319-d05c4d25"
+      ],
+      "last_updated": "2026-03-19",
+      "path": "/home/admin/.openclaw/workspace/vinest/01-sources/reports/2026-03-19-@余小丽7565534929986.md",
+      "sector_slug": "machinery",
+      "company_slug": "1651.hk",
+      "display_name": "@余小丽7565534929986",
+      "primary_sector": "machinery"
+    },
+    {
+      "id": "S-20260319-0089f118",
+      "title": "@吴劲草，@石旖瑄4747514675705",
+      "source_type": "report",
+      "date": "2026-03-19",
+      "summary": "海外公司點評聚焦好孩子國際（1086.HK）。；核心信息：2024業績點評顯示高端品牌 Cybex 發展加速。",
+      "categories": [
+        "companies",
+        "market",
+        "methods",
+        "sectors"
+      ],
+      "sector_tags": [
+        "baby-products"
+      ],
+      "company_tags": [
+        "1086.HK"
+      ],
+      "market_tags": [
+        "consumption-upgrade"
+      ],
+      "ticker": "1086.HK",
+      "watchlist_status": "off_watchlist",
+      "thesis_status": "strengthened",
+      "related_ids": [],
+      "last_updated": "2026-03-19",
+      "path": "/home/admin/.openclaw/workspace/vinest/01-sources/reports/2026-03-19-@吴劲草，@石旖瑄4747514675705.md",
+      "sector_slug": "baby-products",
+      "company_slug": "1086.hk",
+      "display_name": "@吴劲草，@石旖瑄4747514675705",
+      "primary_sector": "baby-products"
+    },
+    {
+      "id": "S-20260319-06afbd4a",
+      "title": "@吴劲草，@石旖瑄，@阳靖29430524933707",
+      "source_type": "report",
+      "date": "2026-03-19",
+      "summary": "行業深度報告：商貿零售 2026 策略。；主軸為「強、變、新」：外需與內需共振，消費出海與資源商貿。",
+      "categories": [
+        "market",
+        "methods",
+        "sectors"
+      ],
+      "sector_tags": [
+        "retail-trade"
+      ],
+      "company_tags": [],
+      "market_tags": [
+        "consumption-export",
+        "supply-chain-reconfiguration"
+      ],
+      "ticker": "",
+      "watchlist_status": "off_watchlist",
+      "thesis_status": "intact",
+      "related_ids": [],
+      "last_updated": "2026-03-19",
+      "path": "/home/admin/.openclaw/workspace/vinest/01-sources/reports/2026-03-19-@吴劲草，@石旖瑄，@阳靖29430524933707.md",
+      "sector_slug": "retail-trade",
+      "company_slug": "",
+      "display_name": "@吴劲草，@石旖瑄，@阳靖29430524933707",
+      "primary_sector": "retail-trade"
+    },
+    {
+      "id": "S-20260319-b7b4f2f6",
+      "title": "陳儀雯6938594929613",
+      "source_type": "report",
+      "date": "2026-03-19",
+      "summary": "中國機械報告聚焦津上精密機床（中國）1651.HK。；重點：1H26 業績穩健，並出現新的增長動能。",
+      "categories": [
+        "companies",
+        "methods",
+        "sectors"
+      ],
+      "sector_tags": [
+        "machinery"
+      ],
+      "company_tags": [
+        "1651.HK"
+      ],
+      "market_tags": [],
+      "ticker": "1651.HK",
+      "watchlist_status": "off_watchlist",
+      "thesis_status": "strengthened",
+      "related_ids": [
+        "S-20260319-711002ee",
+        "S-20260319-b7b4f2f6",
+        "S-20260319-d05c4d25"
+      ],
+      "last_updated": "2026-03-19",
+      "path": "/home/admin/.openclaw/workspace/vinest/01-sources/reports/2026-03-19-陳儀雯6938594929613.md",
+      "sector_slug": "machinery",
+      "company_slug": "1651.hk",
+      "display_name": "陳儀雯6938594929613",
+      "primary_sector": "machinery"
+    },
+    {
+      "id": "S-20260319-d05c4d25",
+      "title": "陳儀雯7036944893403",
+      "source_type": "report",
+      "date": "2026-03-19",
+      "summary": "2025-10 報告預期 1H26 業績穩健。；屬於業績前瞻型觀點，與後續報告可形成驗證鏈。",
+      "categories": [
+        "companies",
+        "methods",
+        "sectors"
+      ],
+      "sector_tags": [
+        "machinery"
+      ],
+      "company_tags": [
+        "1651.HK"
+      ],
+      "market_tags": [],
+      "ticker": "1651.HK",
+      "watchlist_status": "off_watchlist",
+      "thesis_status": "strengthened",
+      "related_ids": [
+        "S-20260319-711002ee",
+        "S-20260319-b7b4f2f6",
+        "S-20260319-d05c4d25"
+      ],
+      "last_updated": "2026-03-19",
+      "path": "/home/admin/.openclaw/workspace/vinest/01-sources/reports/2026-03-19-陳儀雯7036944893403.md",
+      "sector_slug": "machinery",
+      "company_slug": "1651.hk",
+      "display_name": "陳儀雯7036944893403",
+      "primary_sector": "machinery"
+    }
+  ],
+  "watchlist": [],
+  "opportunities": [],
+  "untagged_sources": [],
+  "knowledge_categories": [
+    {
+      "category": "方法",
+      "count": 5,
+      "latest_summary": "海外公司點評（工業）首次覆蓋津上機床中國（1651.HK），給予買入評級。；核心觀點：1H26業績增長強勁，AI液冷相關需求成為新驅動。"
+    },
+    {
+      "category": "市場",
+      "count": 4,
+      "latest_summary": "行業深度報告：商貿零售 2026 策略。；主軸為「強、變、新」：外需與內需共振，消費出海與資源商貿。"
+    },
+    {
+      "category": "行業",
+      "count": 5,
+      "latest_summary": "海外公司點評聚焦好孩子國際（1086.HK）。；核心信息：2024業績點評顯示高端品牌 Cybex 發展加速。"
+    },
+    {
+      "category": "公司",
+      "count": 4,
+      "latest_summary": "海外公司點評聚焦好孩子國際（1086.HK）。；核心信息：2024業績點評顯示高端品牌 Cybex 發展加速。"
+    }
+  ]
+}

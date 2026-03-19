@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>VINEST Dashboard</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div>
+      <h1>VINEST</h1>
+      <p class="subtitle">summary-first investment research dashboard</p>
+    </div>
+    <div class="top-actions">
+      <button id="refreshBtn">刷新</button>
+    </div>
+  </header>
+
+  <div id="loadingBox" class="loading" style="display:none">載入中...</div>
+  <div id="errorBox" class="error" style="display:none"></div>
+
+  <main id="app"></main>
+
+  <script src="./app.js"></script>
+</body>
+</html>
